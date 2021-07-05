@@ -15,6 +15,7 @@ a:hover{text-shadow: royalblue; color: black;}
 
 /* Navbar Styling */
 .navbar{
+    font-family: 'Comfortaa', cursive;
     padding-left: 5%;
 }
 
@@ -26,7 +27,7 @@ a:hover{text-shadow: royalblue; color: black;}
 
 .navbar-div ul {
     list-style-type: none;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-top: 3%;
     padding: 10px;
 }
@@ -34,7 +35,7 @@ a:hover{text-shadow: royalblue; color: black;}
 .navbar-div li {
     display: inline;
     margin-top: 5%;
-    margin: 4%;
+    margin: 35px;
 }
 
 .navlist{
@@ -70,6 +71,7 @@ a:hover{text-shadow: royalblue; color: black;}
 .top-banner h1 span{
     text-transform: capitalize;
     font-weight: 800;
+    /* for text gradient effect */
     background: -webkit-linear-gradient(left, rgb(31, 28, 209), rgb(223, 15, 188));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
