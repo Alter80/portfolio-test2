@@ -131,6 +131,8 @@ a:hover{text-shadow: royalblue; color: black;}
     padding: 5px 15px;
     margin: 25px;
     text-align: center;
+    /* font-family:inherit; */
+    font-weight: 600;
 }
 
 
