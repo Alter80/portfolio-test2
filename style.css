@@ -63,8 +63,16 @@ a:hover{text-shadow: royalblue; color: black;}
     margin-top: 20px;
 }
 .top-banner h1{
-    font-weight: 800;
+    font-weight: 700;
     font-size: 40px;
+}
+
+.top-banner h1 span{
+    text-transform: capitalize;
+    font-weight: 800;
+    background: -webkit-linear-gradient(left, rgb(31, 28, 209), rgb(223, 15, 188));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .top-banner h5{
