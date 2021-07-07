@@ -21,6 +21,7 @@ a:hover{text-shadow: royalblue; color: black;}
     font-family: 'Comfortaa', cursive;
     font-weight: 800;
     padding-left: 5%;
+    /* position: fixed; */
 }
 
 .logo1{
